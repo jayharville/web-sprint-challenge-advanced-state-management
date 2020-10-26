@@ -1,3 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:300&display=swap');
+
+
 .App {
+  font-family: 'Oswald', sans-serif;
   text-align: center;
+  background: linear-gradient(to top, white 0%, blue 100%);
+  padding: 32px;
+  color: antiquewhite;
+}
+
+.smurf {
+  background:#070FFF;
+  color: white;
+  width: 300px;
+  margin: 0px auto;
+  padding: 10px;
+  border-radius: 15px;
+  box-shadow: 3px 3px 6px white;
+}
+
+.smurfs {
+background-color: aqua;
+}
+
+.formItem {
+  color: black;
 }
